@@ -18,8 +18,10 @@
 
 <!-- Skills -->
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bitcount&size=29&pause=200&color=38C2FF&width=435&lines=Skills" alt="Typing SVG" /></a>
+
 <a href="https://skillicons.dev">
-  <img width="80%" src="https://skillicons.dev/icons?i=html,css,js,react,phython,nodejs," />
+  <img width=" src="https://skillicons.dev/icons?i=html,css,js,react,phython,nodejs," />
 </a>
 
 </div>
