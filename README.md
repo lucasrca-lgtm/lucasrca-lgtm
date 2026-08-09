@@ -24,7 +24,7 @@
 
 <!-- Commits --> 
 ##
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bitcount&size=30&pause=1000&color=38C2FF&repeat=false&width=435&lines=Contribuitions" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bitcount&size=29&pause=200&color=38C2FF&repeat=false&width=435&lines=Contribuitions" alt="Typing SVG" /></a>
 
 <!-- <img align="right" width="300px" alt="" height="230px" src="Animation.gif"> --> 
 
