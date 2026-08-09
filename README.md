@@ -18,7 +18,9 @@
 
 <!-- Skills -->
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,phython,nodejs)](https://skillicons.dev)
+<a href="https://skillicons.dev">
+  <img width="80%" src="https://skillicons.dev/icons?i=html,css,js,react,phython,nodejs," />
+</a>
 
 </div>
 
